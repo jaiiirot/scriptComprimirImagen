@@ -1,18 +1,18 @@
-# Script de Compresión de Imágenes y Creación de Archivo ZIP
+# 🖼️ Script de Compresión de Imágenes y Creación de Archivo ZIP
 
 Este script en Python utiliza la biblioteca PIL para comprimir imágenes en una carpeta específica y crea un archivo ZIP que contiene todas las imágenes comprimidas.
 
-## Requisitos
+## 🚀 Requisitos
 
 - Python (versión 3.12.1)
 - Biblioteca PIL (asegúrate de instalarla usando `pip install Pillow`)
 
-## Uso
+## 💻 Uso
 
 1. Coloca las imágenes que deseas comprimir en la carpeta `./images/`.
 2. Ejecuta el script `scriptCompresion.py`.
 
-## Detalles del Script
+## 📋 Detalles del Script
 
 ```python
 from PIL import Image
